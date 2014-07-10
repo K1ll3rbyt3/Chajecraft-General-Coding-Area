@@ -517,7 +517,7 @@ TEAM_SWATEXPLOSIVE = AddExtraTeam("Military Explosives Expert", {
 		Type /wanted <name> to alert the public to this criminal
 		Type /jailpos to set the Jail Position
 		!!You also hunt down the Runners!!]],
-	weapons = {"arrest_stick", "unarrest_stick", "m9k_colt1911", "stunstick", "weaponchecker", "m9k_mossberg590", "weapon_slam", "handcuffs"},
+	weapons = {"arrest_stick", "unarrest_stick", "m9k_colt1911", "stunstick", "weaponchecker", "m9k_mossberg590", "weapon_slam", "handcuffs", "door_ram"},
 	command = "swatexplosive",
 	max = 5,
 	salary = 120,
@@ -540,7 +540,7 @@ TEAM_SWATHACKER = AddExtraTeam("Military Hacker", {
 		Type /wanted <name> to alert the public to this criminal
 		Type /jailpos to set the Jail Position
 		!!You also hunt down the Runners!!]],
-	weapons = {"arrest_stick", "unarrest_stick", "m9k_colt1911", "fas2_m4a1", "stunstick", "weaponchecker", "weapon_hack_phone", "handcuffs"},
+	weapons = {"arrest_stick", "unarrest_stick", "m9k_colt1911", "fas2_m4a1", "stunstick", "weaponchecker", "weapon_hack_phone", "handcuffs", "door_ram"},
 	command = "swathacker",
 	max = 5,
 	salary = 100,
@@ -564,7 +564,7 @@ TEAM_SWATJUGGER = AddExtraTeam("Military Juggernaut", {
 		Type /wanted <name> to alert the public to this criminal
 		Type /jailpos to set the Jail Position
 		!!You also hunt down the Runners!!]],
-	weapons = {"arrest_stick", "unarrest_stick", "m9k_colt1911", "fas2_m4a1", "riotshield", "stunstick", "weaponchecker", "handcuffs"},
+	weapons = {"arrest_stick", "unarrest_stick", "m9k_colt1911", "fas2_m4a1", "riotshield", "stunstick", "weaponchecker", "handcuffs", "door_ram"},
 	command = "swatjugger",
 	max = 5,
 	salary = 100,
